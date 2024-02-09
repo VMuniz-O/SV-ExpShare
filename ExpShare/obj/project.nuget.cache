@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lx+ICnQ9J+JP+IJFvxX94hoal2hd3ez3UD2Ylm+MFIvVkydtEtasXqi2sNcCK6Tk91uL8DdS+e8Jj2PRdQeacA==",
+  "success": true,
+  "projectFilePath": "C:\\Repositories\\SV-ExpShare\\ExpShare\\ExpShare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

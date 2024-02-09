@@ -1,0 +1,8 @@
+C:\Repositories\SV-ExpShare\ExpShare\obj\Debug\net5.0\ExpShare.csproj.AssemblyReference.cache
+C:\Repositories\SV-ExpShare\ExpShare\obj\Debug\net5.0\ExpShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\SV-ExpShare\ExpShare\obj\Debug\net5.0\ExpShare.AssemblyInfoInputs.cache
+C:\Repositories\SV-ExpShare\ExpShare\obj\Debug\net5.0\ExpShare.AssemblyInfo.cs
+C:\Repositories\SV-ExpShare\ExpShare\obj\Debug\net5.0\ExpShare.csproj.CoreCompileInputs.cache
+C:\Repositories\SV-ExpShare\ExpShare\bin\Debug\net5.0\ExpShare.deps.json
+C:\Repositories\SV-ExpShare\ExpShare\bin\Debug\net5.0\ExpShare.dll
+C:\Repositories\SV-ExpShare\ExpShare\obj\Debug\net5.0\ExpShare.dll
